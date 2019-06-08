@@ -1,0 +1,21 @@
+Back Support Forwards// A1, Back Support Forwards, Moves In One Binding, 0.2
+Back Support Backwards// A1, Back Suppoer Backwards, Moves In One Binding, 0.2
+High Front Support Forwards// A2, High Fron Support Forwards, Moves In One Binding, 0.2
+High Front Support Backwards// A2, High Front Support Backwards, Moves In One Binding, 0.2
+Basic Element Without Bindings// A3, Basic Element Without Bindings, Moves Without Bindings, 0.2
+Bridge In One Binding// A4, Bridge In One Binding, Bridges, 0.2
+Bridge Without Bindings// A5, Bridge Without Bindings, Bridges, 0.2
+Free Fly// A6, Free Fly, Free Fly Moves, 0.2
+2 Bridge Variation Combination// A7, 2 Bridge Variation Combination, Combination In 2 Bindings, 0.2
+Free Half turn Combination// A8, Free Half turn Combination, Combination In 2 Bindings, 0.2
+Double Turn Combination// A9, Double Turn Combination, Combination In 2 Bindings, 0.2
+Free Knee Hang Stand Backwards Into Front Support Backwards// A10, Free Knee Hang Stand Backwards Into Front Support Backwards, Combination In One Binding, 0.2
+All A move Combination// A11, All A move Combination, Combination In One Binding, 0.2
+At Least 1 Half Turn Combination// A12, At Least 1 Half Turn Combination, Combination In One Binding, 0.2
+Element Combination Without Bindings// A13, Element Combination Without Bindings, Combination Without Bindings, 0.2
+Element With Difficulty In The Upper Phase// A14, Element With Difficulty In The Upper Phase, Decentralised Move With Difficulty In The Upper Phase, 0.2
+
+
+
+Tuck Over Knee Circle, Tuck Over Knee-Circle, Tuck Over Backwards Knee Circle, Tuck Over Backwards Knee-Circle, Tuck Over Knee Circle Backwards, Tuck Over Knee-Circle Backwards// D, Knee Circle, 0.8
+Triple Back Hip Circle, Triple Back Hip-Circle, Triple Hip Circle Backwards, Triple Hip-Circle Backwards, Backwards Triple Hip Circle, Backwards Triple Hip-Circle// D, Hip Circle, 0.8
